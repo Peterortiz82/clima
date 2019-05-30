@@ -1,0 +1,33 @@
+# xcode noise
+build/*
+*.pbxuser
+*.mode1v3
+artifacts/*
+
+# old skool
+.svn
+
+# osx noise
+.DS_Store
+profile
+
+# AppCode
+.idea/*
+
+# user-specific settings
+Teamsnap.xcworkspace/xcuserdata/*
+Teamsnap.xcodeproj/project.xcworkspace/*
+Teamsnap.xcodeproj/xcuserdata/*
+
+# fastlane
+fastlane/metadata/*
+fastlane/screenshots/*
+fastlane/installer/*
+fastlane/report.xml
+fastlane/README.md
+Teamsnap.app.dSYM.zip
+Teamsnap.ipa
+
+# Pods
+Pods/*
+
